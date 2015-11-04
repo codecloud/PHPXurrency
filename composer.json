@@ -1,8 +1,11 @@
 {
   "name": "codecloud/phpxcurrency",
+  "type": "library",
   "description": "PHP client for XCurrency API",
-  "version": "0.1",
   "autoload": {
     "classmap": ["lib/"]
+  },
+  "require": {
+    "php": ">=5.3.0"
   }
 }
