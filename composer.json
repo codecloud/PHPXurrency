@@ -1,0 +1,8 @@
+{
+  "name": "PHPXCurrency",
+  "description": "PHP client for XCurrency API",
+  "version": "0.1",
+  "autoload": {
+    "classmap": ["lib/"]
+  }
+}
